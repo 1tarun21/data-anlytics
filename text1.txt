@@ -1,1 +1,21 @@
+the following steps are used for push a file to the git hub
 created a text file
+to add file to the github operations are 
+1create a folder in the destop
+2use git clone and copy origin link and paste in beside git clone
+3type cd filename to get directory location or to stores data is used to change the directory
+use comand git add file name in the terminal it is uesd to add file file to the staging arear or waiting area from where the file is created
+then use the comand git status to know abt the status
+the use git commit - ""commit messsage example git commit -m "test2.txt file added"
+then the file willbe added to the folder from staging area
+then use git push origin main or barch to add craete file in the working area tho github
+to restore use git restore file name
+if any messsage is typed in the local file then use git commit -m"modified test .txt file"
+and after the  any changes done in the file ex=very thime we should use push origin main
+if any file is deleted in the local folder but the file is reflecting in the git hub then use git add file name for updation
+then use git commit -m"deleted test2.txt file" and the use git push origin for updation in the git hub
+
+
+following steps are used for pull a file from the github or any chenges made in the github or if any file is made
+use git pull
+if any modifications is done  the it is add  and then it is commit and pushed
